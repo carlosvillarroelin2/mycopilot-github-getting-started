@@ -11,7 +11,6 @@ Here's a recap of the GitHub Copilot features you learned:
 - **Inline Chat**: Generated code and data with Ctrl/Cmd + I
 - **Edit Mode**: Made multi-file changes with targeted prompts
 - **Agent Mode**: Built features and tests autonomously
-- **GitHub integration**: Generated commit messages, PR summaries, and code reviews
 
 ### What's next?
 
